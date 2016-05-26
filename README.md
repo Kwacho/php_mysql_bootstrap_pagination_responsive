@@ -3,10 +3,8 @@ ShareMyWeb.com by Kwacho
 
 PHP, MySQL, Bootstrap Responsive Pagination 
 
-Demo Version available to Dwonload, at:
-	....
 Tutorial/Post available at:
-	....
+http://sharemyweb.com/responsive-pagination-with-php-mysql-and-bootstrap
 
 - Download files from: ...
 - Create database 'pagination' in MySQL(perhaps using phpMyAdmin)
